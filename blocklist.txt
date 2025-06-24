@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/abuse.ip
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/abuse.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/ads.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/fraud.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/malware.ip
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/malware.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/phishing.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/piracy.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/ransomware.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/scam.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/tracking.ip
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/tracking.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/smart-tv.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/youtube.txt
