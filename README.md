@@ -23,10 +23,4 @@ Willkommen bei **Cr4's Pi-hole Blocklist & Whitelist** – einer sorgfältig kur
 | Blocklist | [blocklist.txt](./blocklist.txt) |
 | Whitelist | [whitelist.txt](./whitelist.txt) |
 
-## ⚙️ Verwendung
-
-### Pi-hole Webinterface:
-
-1. Gehe zu **Group Management → Adlists**.
-2. Füge diesen Link hinzu:
 
